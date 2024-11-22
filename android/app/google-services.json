@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "317666399240",
+    "firebase_url": "https://battery-monitoring-79ff7-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "battery-monitoring-79ff7",
+    "storage_bucket": "battery-monitoring-79ff7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317666399240:android:c8111408f3e8688cb02dbd",
+        "android_client_info": {
+          "package_name": "com.example.battery_monitoring"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-VKCxP63zbsY7SzQLwCEF-hPntUSwik4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317666399240:android:c075fcaf813f1101b02dbd",
+        "android_client_info": {
+          "package_name": "com.batteryMonitoring.kedaireka"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-VKCxP63zbsY7SzQLwCEF-hPntUSwik4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
